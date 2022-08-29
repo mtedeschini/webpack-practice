@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	font-family: serif;
+	background-color: rgb(173, 107, 107);
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+}
+
+.container{
+    border: 1px rgb(197, 161, 161) solid;
+    padding: 50px;
+}
